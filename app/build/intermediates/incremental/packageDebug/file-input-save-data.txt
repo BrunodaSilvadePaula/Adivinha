@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue May 09 20:15:25 BRT 2017
+#Tue May 09 22:31:58 BRT 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/home/bruno/Documentos/Android/Adivinha/app/build/intermediates/res/resources-debug.ap_/res/mipmap-hdpi-v4/ic_launcher_round.png

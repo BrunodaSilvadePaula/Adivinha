@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue May 09 20:15:25 BRT 2017
+#Tue May 09 22:31:57 BRT 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/home/bruno/Documentos/Android/Adivinha/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png
