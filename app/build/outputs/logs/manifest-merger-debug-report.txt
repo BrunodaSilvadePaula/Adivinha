@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/c701525f7c213ccc96f4c7939b43258ccea23d64/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/720586aacff1f117654d92666e1255d2349ae97e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/86bfc97dbb4e85d8f89a8932512aa019ce13e74f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/f9233f6fabaac76b0f1479f1624624048681a09e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/65af8ce630941b4eae0179bf63879843b86116e9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/22aea58a1fb80948d42e68baba72402aab3eb62d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/6a99535df195edb5d42189af44cabf245e592a7c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/4321b2280f9f9104aebc369f0ae1e9b00512f714/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/e4b49129d2d40bd924641bb101966c55e53b3e0b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/7baae31fbfa829c09a972bd9fa371c48363dea74/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:11:9-40
+activity#adivinha.cursoandroid.com.adivinha.MainActivity
+ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/c701525f7c213ccc96f4c7939b43258ccea23d64/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/720586aacff1f117654d92666e1255d2349ae97e/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/86bfc97dbb4e85d8f89a8932512aa019ce13e74f/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/f9233f6fabaac76b0f1479f1624624048681a09e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/65af8ce630941b4eae0179bf63879843b86116e9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/22aea58a1fb80948d42e68baba72402aab3eb62d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/6a99535df195edb5d42189af44cabf245e592a7c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/4321b2280f9f9104aebc369f0ae1e9b00512f714/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/e4b49129d2d40bd924641bb101966c55e53b3e0b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/7baae31fbfa829c09a972bd9fa371c48363dea74/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/c701525f7c213ccc96f4c7939b43258ccea23d64/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bruno/Documentos/Android/Adivinha/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/c701525f7c213ccc96f4c7939b43258ccea23d64/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /root/.android/build-cache/720586aacff1f117654d92666e1255d2349ae97e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /root/.android/build-cache/86bfc97dbb4e85d8f89a8932512aa019ce13e74f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /root/.android/build-cache/f9233f6fabaac76b0f1479f1624624048681a09e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /root/.android/build-cache/65af8ce630941b4eae0179bf63879843b86116e9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /root/.android/build-cache/22aea58a1fb80948d42e68baba72402aab3eb62d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /root/.android/build-cache/6a99535df195edb5d42189af44cabf245e592a7c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /root/.android/build-cache/4321b2280f9f9104aebc369f0ae1e9b00512f714/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /root/.android/build-cache/e4b49129d2d40bd924641bb101966c55e53b3e0b/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/c701525f7c213ccc96f4c7939b43258ccea23d64/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /root/.android/build-cache/c701525f7c213ccc96f4c7939b43258ccea23d64/output/AndroidManifest.xml:26:9-47

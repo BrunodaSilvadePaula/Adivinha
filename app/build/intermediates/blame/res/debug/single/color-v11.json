@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bruno/Documentos/Android/Adivinha/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/root/.android/build-cache/c701525f7c213ccc96f4c7939b43258ccea23d64/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/bruno/Documentos/Android/Adivinha/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/root/.android/build-cache/c701525f7c213ccc96f4c7939b43258ccea23d64/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
